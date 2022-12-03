@@ -1,0 +1,23 @@
+# ninja log v5
+5	171	6915305296063888	CMakeFiles/Task_30_practice.dir/odu_30.c.obj	1b86a8006216417f
+9	743	6915288477635714	CMakeFiles/Task_30_practice.dir/main_30.c.obj	d223566cc29d9034
+123	241	6915738752003435	Task_30_practice.exe	1a084e6d1b13d131
+1	102	6915738750646885	CMakeFiles/Task_30_practice.dir/funkp_30.c.obj	21c71f76971b0daf
+750	970	6915288479924377	CMakeFiles/Task_30_practice.dir/graph.c.obj	58b4a0199f744262
+5	117	6915738750817120	CMakeFiles/Task_30_practice.dir/funkf_30.c.obj	622d81378ed89fe3
+7	109	6915738750728699	CMakeFiles/Task_30_practice.dir/funkq_30.c.obj	a241990f522afde8
+1	208	6916162017246370	build.ninja	55f9208500958655
+7	1695	6913229804724183	CMakeFiles/Task_30_practice.dir/pbPlots.c.obj	9894a21b363b5cb
+11	247	6913229790145341	CMakeFiles/Task_30_practice.dir/graph_with_real_solution.c.obj	f0fd3c2dd88e0713
+15	232	6913229790084020	CMakeFiles/Task_30_practice.dir/supportLib.c.obj	4b010d9ad7937cc9
+10	123	6915738750879341	CMakeFiles/Task_30_practice.dir/answer.c.obj	c08f7ae5a7586151
+11	812	6917434052862252	CMakeFiles/Task_30_practice.dir/funkp_30.c.obj	4b41cb5364c421e1
+1	821	6917434052892814	CMakeFiles/Task_30_practice.dir/odu_30.c.obj	8e8cb8c5a9ea7c6f
+16	833	6917434052862252	CMakeFiles/Task_30_practice.dir/graph.c.obj	cb49ca92dd67abe7
+7	839	6917434052902826	CMakeFiles/Task_30_practice.dir/main_30.c.obj	b758f1f59a5b2c60
+813	953	6917434054237849	CMakeFiles/Task_30_practice.dir/funkq_30.c.obj	d8a922b5908d5ec5
+821	966	6917434054370664	CMakeFiles/Task_30_practice.dir/funkf_30.c.obj	9f3928ab857755e7
+839	992	6917434054716656	CMakeFiles/Task_30_practice.dir/supportLib.c.obj	6753b24e26ecbca2
+954	1059	6917434055394588	CMakeFiles/Task_30_practice.dir/answer.c.obj	b98ccb978853deea
+833	1846	6917434063261464	CMakeFiles/Task_30_practice.dir/pbPlots.c.obj	bde59a9d03541cee
+1847	2106	6917434065814791	Task_30_practice.exe	1a084e6d1b13d131
